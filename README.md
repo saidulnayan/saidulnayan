@@ -5,9 +5,11 @@ papers in Q1 journals. I have professional work experience as an ICT Master Trai
 Research Assistant at CABAIR. Now I am looking for a higher study opportunity to deepen my knowledge and conduct advanced research,
 contributing to the betterment of mankind.
 
-Language: C, C++, HTML, CSS, JS, PHP, Python, SQL
-Ai/ML: Tensorflow, PyTorch, Pandas, Numpy, scikit_learn, OpenCV
-Tools: Microsoft Word, Latex, Zotero, Jupyter Notebook, Google Colab, VS Code, Pycharm, ChatGPT, Kaggle, Canva, Git
+### Skills:
+
+* Language: C, C++, HTML, CSS, JS, PHP, Python, SQL
+* Ai/ML: Tensorflow, PyTorch, Pandas, Numpy, scikit_learn, OpenCV
+* Tools: Microsoft Word, Latex, Zotero, Jupyter Notebook, Google Colab, VS Code, Pycharm, ChatGPT, Kaggle, Canva, Git
 
 ### Contact Me
-  [email:](mailto:nayan.saidul@gmail.com)
+  Email Address:  [nayan.saidul@gmail.com](mailto:nayan.saidul@gmail.com)
